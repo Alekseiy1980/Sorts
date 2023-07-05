@@ -1,0 +1,15 @@
+C:\Users\Aleks\Desktop\HomeWork\Сортировки\SortingTypes\dotnet\CoutingSort\bin\Debug\net6.0\CoutingSort.exe
+C:\Users\Aleks\Desktop\HomeWork\Сортировки\SortingTypes\dotnet\CoutingSort\bin\Debug\net6.0\CoutingSort.deps.json
+C:\Users\Aleks\Desktop\HomeWork\Сортировки\SortingTypes\dotnet\CoutingSort\bin\Debug\net6.0\CoutingSort.runtimeconfig.json
+C:\Users\Aleks\Desktop\HomeWork\Сортировки\SortingTypes\dotnet\CoutingSort\bin\Debug\net6.0\CoutingSort.dll
+C:\Users\Aleks\Desktop\HomeWork\Сортировки\SortingTypes\dotnet\CoutingSort\bin\Debug\net6.0\CoutingSort.pdb
+C:\Users\Aleks\Desktop\HomeWork\Сортировки\SortingTypes\dotnet\CoutingSort\obj\Debug\net6.0\CoutingSort.csproj.AssemblyReference.cache
+C:\Users\Aleks\Desktop\HomeWork\Сортировки\SortingTypes\dotnet\CoutingSort\obj\Debug\net6.0\CoutingSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleks\Desktop\HomeWork\Сортировки\SortingTypes\dotnet\CoutingSort\obj\Debug\net6.0\CoutingSort.AssemblyInfoInputs.cache
+C:\Users\Aleks\Desktop\HomeWork\Сортировки\SortingTypes\dotnet\CoutingSort\obj\Debug\net6.0\CoutingSort.AssemblyInfo.cs
+C:\Users\Aleks\Desktop\HomeWork\Сортировки\SortingTypes\dotnet\CoutingSort\obj\Debug\net6.0\CoutingSort.csproj.CoreCompileInputs.cache
+C:\Users\Aleks\Desktop\HomeWork\Сортировки\SortingTypes\dotnet\CoutingSort\obj\Debug\net6.0\CoutingSort.dll
+C:\Users\Aleks\Desktop\HomeWork\Сортировки\SortingTypes\dotnet\CoutingSort\obj\Debug\net6.0\refint\CoutingSort.dll
+C:\Users\Aleks\Desktop\HomeWork\Сортировки\SortingTypes\dotnet\CoutingSort\obj\Debug\net6.0\CoutingSort.pdb
+C:\Users\Aleks\Desktop\HomeWork\Сортировки\SortingTypes\dotnet\CoutingSort\obj\Debug\net6.0\CoutingSort.genruntimeconfig.cache
+C:\Users\Aleks\Desktop\HomeWork\Сортировки\SortingTypes\dotnet\CoutingSort\obj\Debug\net6.0\ref\CoutingSort.dll
